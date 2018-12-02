@@ -43,18 +43,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
+  - name: APDOBackground
     uniqueID: 859998513
     locked: 0
-  - name: IceBerg
+  - name: APDOIceBerg
     uniqueID: 2084052759
     locked: 0
-  - name: FishCollect
+  - name: APDOFishCollect
     uniqueID: 628939359
     locked: 0
-  - name: AnimalRescue
+  - name: APDOAnimalRescue
     uniqueID: 2170198639
     locked: 0
-  - name: Player
+  - name: APDOPlayer
     uniqueID: 2205906649
     locked: 0
